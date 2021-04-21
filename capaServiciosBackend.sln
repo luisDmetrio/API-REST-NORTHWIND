@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "capaServiciosBackend", "capaServiciosBackend\capaServiciosBackend.csproj", "{BBAFA741-FA26-49FD-AA35-1D76511DEB81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestNorthwind", "ApiRestNorthwind\ApiRestNorthwind.csproj", "{963516E5-3B39-4EC4-9B2D-2574DCDD5DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAFA741-FA26-49FD-AA35-1D76511DEB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAFA741-FA26-49FD-AA35-1D76511DEB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAFA741-FA26-49FD-AA35-1D76511DEB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAFA741-FA26-49FD-AA35-1D76511DEB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963516E5-3B39-4EC4-9B2D-2574DCDD5DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963516E5-3B39-4EC4-9B2D-2574DCDD5DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963516E5-3B39-4EC4-9B2D-2574DCDD5DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963516E5-3B39-4EC4-9B2D-2574DCDD5DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A09318-FFF7-4019-A094-E4F59661E2BC}
+	EndGlobalSection
+EndGlobal
